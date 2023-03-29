@@ -1,7 +1,7 @@
 import "./index.css";
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, Switch } from "react-router-dom";
 import Homepage from "./pages/Homepage";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
@@ -10,7 +10,7 @@ import ProjectGallery from "./pages/ProjectGallery";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-folio">
       <Routes>
         <Route path="/home" element={<Homepage />} />
         <Route path="/" element={<Homepage />} />
@@ -23,3 +23,5 @@ function App() {
   );
 }
 export default App;
+
+
