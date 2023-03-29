@@ -1,0 +1,14 @@
+.square-card .card-body {
+  position: absolute;
+  top: -1;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.square-card {
+  height: 0;
+  margin: 10px;
+  padding-bottom: 9%;
+  position: relative;
+}

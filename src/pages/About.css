@@ -1,0 +1,19 @@
+.aboutContainer {
+  display: flex;
+  box-sizing: border-box;
+}
+
+.aboutContEl {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+}
+
+.navigation {
+  padding: 30px;
+  margin: 5px;
+}
+
+.aboutCard {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}

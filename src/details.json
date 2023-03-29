@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a",
+    "title": "Movie-zone",
+    "projectUrl": "https://zakirali1.github.io/Movie-Zone",
+    "repoUrl": "https://github.com/zakirali1/Movie-Zone",
+    "description": "Group third-party API project",
+    "projectImage": "moviezone.png"
+  },
+  {
+    "id": "b",
+    "title": "Weather-Dashboard",
+    "projectUrl": "https://19lola89.github.io/CurrentWeatherDashboard/ ",
+    "repoUrl": "https://github.com/19Lola89/CurrentWeatherDashboard",
+    "description": "Web Api project",
+    "projectImage": "weather.png"
+  },
+  {
+    "id": "c",
+    "title": "Password-Generator",
+    "projectUrl": "https://github.com/19Lola89/password_generator",
+    "repoUrl": "https://github.com/19Lola89/password_generator",
+    "description": "Javascript fundamentals",
+    "projectImage": "passwordgen.png"
+  },
+  {
+    "id": "d",
+    "title": "Pop-quiz",
+    "projectUrl": "https://19lola89.github.io/Web_api_quiz_challenge/",
+    "repoUrl": "https://github.com/19Lola89/password_generator",
+    "description": "Maths, fun and programming ",
+    "projectImage": "quiz.png"
+  },
+  {
+    "id": "e",
+    "title": "Daily-planner",
+    "projectUrl": "https://19lola89.github.io/mundane-todolist/",
+    "repoUrl": "https://github.com/19Lola89/mundane-todolist",
+    "description": "Staying on top of things ",
+    "projectImage": "dailyplanner.png"
+  },
+  {
+    "id": "f",
+    "title": "Bootstrap-portfolio",
+    "projectUrl": "https://19lola89.github.io/bootstrap-porfolio/",
+    "repoUrl": "https://github.com/19Lola89/bootstrap-porfolio",
+    "description": "Bootstrap and other",
+    "projectImage": "bootstrap.png"
+  }
+]
