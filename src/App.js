@@ -8,8 +8,6 @@ import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
 import ProjectGallery from "./pages/ProjectGallery";
 
-console.log("testing")
-
 function App() {
   return (
     <Router>
